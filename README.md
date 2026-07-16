@@ -19,6 +19,7 @@
 <!-- QUICK BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/ASU-MS%20Software%20Engineering%20'26-8C1D40?style=flat-square&labelColor=222" />
+  <img src="https://img.shields.io/badge/Salesforce-Certified%20Agentforce%20Specialist-00A1E0?style=flat-square&labelColor=222" />
   <img src="https://img.shields.io/badge/Open%20to-Full--Time%202026-6C63FF?style=flat-square&labelColor=222" />
   <a href="https://www.linkedin.com/in/aniketyadav12"><img src="https://img.shields.io/badge/LinkedIn-aniketyadav12-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -35,11 +36,13 @@ Finishing my MS in Software Engineering at Arizona State University (May 2026). 
 
 ## `$ ls -la ./projects`
 
-**[LLM Red-Teaming Platform](https://github.com/Aniket6262)** — Automated adversarial security testing: 1,047 prompts against Claude 3.5 Sonnet. A 3-layer prompt firewall (regex → fine-tuned DistilBERT → LLM referee) hit **82.8% recall @ 90.1% precision**, and an OCR/sanitization pipeline cut visual prompt-injection success from **42% → under 9%**. `Python` `PyTorch` `DistilBERT`
+**[LLM Red-Teaming Platform for Prompt Security](https://github.com/Aniket6262/LLM-Red-Teaming-Platform-CSE543)** — Automated adversarial security testing: 1,047 evaluation prompts against Claude 3.5 Sonnet. A 3-layer Prompt Firewall (regex → fine-tuned DistilBERT → LLM referee); implemented Layers 1+2 hit **82.8% recall / 90.1% precision / 4.5% FPR**, and an OCR + image-sanitization pipeline cut visual prompt-injection attack success from **42.3% → 8.7%**. `Python` `PyTorch` `DistilBERT` `MongoDB`
 
-**[Multi-Cloud Orchestration Platform](https://github.com/Aniket6262)** — One unified FastAPI REST API across **AWS, GCP, and Azure** behind a facade pattern, with a React dashboard and an Infrastructure-as-Code planning layer (dry-run + apply). Validated with 17 unit tests. `Python` `FastAPI` `React`
+**[Fine-Tuning LLMs (FLAN-T5, LLaMA-2)](https://huggingface.co/dudleymax/ludwig-llama2python)** — Fine-tuned **FLAN-T5** for dialogue summarization (**+18% ROUGE**) and adapted **LLaMA-2 7B** for code generation (**+5% pass@1**) with **QLoRA** (LoRA + 4-bit) via PEFT; built end-to-end training/inference pipelines and a benchmarking harness on HumanEval/MBPP. `Python` `PyTorch` `QLoRA` `HuggingFace`
 
-**[Semantic Sports Analytics](https://github.com/Aniket6262)** — Turned 200K+ flat records into a queryable **knowledge graph** (Apache Jena Fuseki) with an OWL/RDF ontology; 20+ SPARQL queries at **1.2s latency, 100% retrieval accuracy**. `Python` `Flask` `PostgreSQL`
+**[Multi-Cloud Orchestration Platform](https://github.com/Aniket6262/SER517-Faculty-Team2)** — One unified FastAPI REST API across **AWS, GCP, and Azure** behind a facade pattern, with a React dashboard and an Infrastructure-as-Code planning layer (dry-run + apply modes, autoscaling from live metrics). Validated with 17 unit tests. `Python` `FastAPI` `TypeScript` `React`
+
+**[Semantic Sports Analytics](https://github.com/Aniket6262/SER531-Group-7-Data-Integration-Project)** — Python ETL converting **200K+ records across 5 datasets** into a queryable **knowledge graph** (Apache Jena Fuseki) with an OWL/RDF ontology in Protégé; 20+ queries at **1.2s latency, 100% retrieval accuracy** via Flask REST APIs + React. `Python` `Flask` `PostgreSQL`
 
 ---
 
