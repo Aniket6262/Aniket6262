@@ -82,12 +82,7 @@ Finishing my MS in Software Engineering at Arizona State University (May 2026). 
 ## `$ top`
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aniket6262&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Aniket6262&theme=react&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket6262&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=Aniket6262&theme=react&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 </p>
 
 ---
